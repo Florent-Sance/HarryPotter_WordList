@@ -12,7 +12,7 @@ fred
 george
 percy 
 gryffondor
-serpentar
+serpentard
 serdaigle
 poufsouffle
 hogwarts
@@ -42,14 +42,11 @@ hagrid
 accio
 allohomora
 amplificatum
-avada kedavra
 avada-kedavra
 avadakedavra
 collaporta
-crac badaboum
 crac-badaboum
 cracbadaboum
-crache limace
 crache-limace
 crachelimace
 croque cheville
@@ -65,7 +62,6 @@ enervatum
 evanesco
 expelliarmus
 failamal
-fera verta
 fera-verta
 feraverta
 finit
@@ -77,25 +73,20 @@ incarcerem
 incendio
 imobilis
 légilimens
-legilimens
-locomotor barda
 locomotor-barda
 locomotorbarda
 lumos
-lumus solem
+lumus-solem
 mobilicorpus
 morsmordre
 mutismus
 nox
 oubliette
-oqulus reparo
 oqulus-reparo
 oqulusreparo
-petrificus totalus
 petrificus-totalus
 petrificustotalus
 portus
-prior incanta
 prior-incanta
 priorincanta
 protego
@@ -108,14 +99,13 @@ serpentasortia
 silencio
 sonorus
 sourdinam
-spero patronum
 spero-patronum
 speropatronum
 stupefix
 tarrentallegra
 waddiwasi
-wingardium leviosa
 wingardium-leviosa
 wingardiumleviosa
 phoenix
 strangulo
+
